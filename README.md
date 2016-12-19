@@ -10,11 +10,14 @@ Three in a row
 
 
 Five in a Row
+![five](https://github.com/Bryanschauerte/ImageGalleryReact/blob/master/pics/Screen%20Shot%202016-12-18%20at%2011.00.51%20PM.png)
 
-[[https://github.com/Bryanschauerte/ImageGalleryReact/blob/master/pics/Screen%20Shot%202016-12-18%20at%2011.00.51%20PM.png]]
+
 
 Ten in a row
-[[https://github.com/Bryanschauerte/ImageGalleryReact/blob/master/pics/Screen%20Shot%202016-12-18%20at%2011.01.04%20PM.png]]
+![ten](https://github.com/Bryanschauerte/ImageGalleryReact/blob/master/pics/Screen%20Shot%202016-12-18%20at%2011.01.04%20PM.png)
 
 Selected item pop out ( No button style)
-[[https://github.com/Bryanschauerte/ImageGalleryReact/blob/master/pics/Screen%20Shot%202016-12-18%20at%2011.01.31%20PM.png]]
+![five](https://github.com/Bryanschauerte/ImageGalleryReact/blob/master/pics/Screen%20Shot%202016-12-18%20at%2011.01.31%20PM.png)
+
+
