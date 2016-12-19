@@ -6,7 +6,8 @@ Its pretty handy if you just want to GO, without having to worry about your webp
 ImageGalleryReact contains the peices to a catalog I built to meet someones needs. Nothing too fancy, just pulls in urls from certain galleries, and displays them without any fuss on sizes. 
 
 Three in a row
-[[https://github.com/Bryanschauerte/ImageGalleryReact/blob/master/pics/Screen%20Shot%202016-12-18%20at%2011.00.39%20PM.png]]
+![three](https://github.com/Bryanschauerte/ImageGalleryReact/blob/master/pics/Screen%20Shot%202016-12-18%20at%2011.00.39%20PM.png)
+
 
 Five in a Row
 
